@@ -1,0 +1,17 @@
+This is the structure of the result that the imagePicker function provides
+{
+  "assets": [
+    {
+      "assetId": null,
+      "base64": null,
+      "duration": null,
+      "exif": null,
+      "height": 4800,
+      "rotation": null,
+      "type": "image",
+      "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%username%252Fsticker-smash-47-beta/ImagePicker/77c4e56f-4ccc-4c83-8634-fc376597b6fb.jpeg",
+      "width": 3200
+    }
+  ],
+  "canceled": false,
+}
