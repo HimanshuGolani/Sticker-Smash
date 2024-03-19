@@ -11,7 +11,6 @@ import EmojiList from "./components/EmojiList";
 import EmojiSticker from "./components/EmojiSticker";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 import * as MediaLibrary from "expo-media-library";
-
 import { captureRef } from "react-native-view-shot";
 
 const PlaceholderImage = require("./assets/background-image.png");
